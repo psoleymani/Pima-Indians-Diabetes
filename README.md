@@ -1,0 +1,2 @@
+# Pima-Indians-Diabetes
+ML algorithms are well known in the medical field for predicting diseases. This study was conducted using three different ML algorithms including Logistic  regression, Decision Tree, and the Naïve Bayes to predict if a particular observation is at a risk of developing diabetes. Moreover, K-means clustering and data mining is used to discover the grouping structures inherent in data. 
